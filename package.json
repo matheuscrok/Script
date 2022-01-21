@@ -1,0 +1,23 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node /home/crok/Documentos/teste/scrap/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cross-fetch": "^3.1.4",
+    "express": "^4.17.2",
+    "puppeteer": "^13.1.1",
+    "puppeteer-core": "^13.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
